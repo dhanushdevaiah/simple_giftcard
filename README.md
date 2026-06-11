@@ -1,2 +1,2 @@
 # simple_giftcard
-its a simple birthday card for geginners
+its a simple birthday card for beginners
